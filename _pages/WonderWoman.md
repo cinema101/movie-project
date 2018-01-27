@@ -1,5 +1,5 @@
 ---
-layout: movies
+layout: single
 title: "Wonder Woman"
 date: 2018-01-13
 author: Natalia
@@ -12,8 +12,8 @@ img: https://i.pinimg.com/originals/a6/16/ff/a616ff9019660cff93428389a400f057.jp
 
 
 # Movie Review 
---------------------
-* Diana Prince, in modern Paris, receives a photographic plate of herself and four men taken during World War I, prompting her to recall her past. Daughter of Queen Hippolyta, Diana was raised on the hidden island of Themyscira, home to the Amazonian warrior women created by Zeus to protect mankind. Hippolyta shares the Amazonian history with Diana, including how Ares, Zeus's son, became jealous of humanity and orchestrated its destruction. When the other gods attempted to stop him, Ares killed all but Zeus, who used the last of his power to wound Ares and force his retreat (thus dying in the process). Zeus left the Amazons the island and a weapon, the "Godkiller", to prepare them for Ares' return.
+
+Diana Prince, in modern Paris, receives a photographic plate of herself and four men taken during World War I, prompting her to recall her past. Daughter of Queen Hippolyta, Diana was raised on the hidden island of Themyscira, home to the Amazonian warrior women created by Zeus to protect mankind. Hippolyta shares the Amazonian history with Diana, including how Ares, Zeus's son, became jealous of humanity and orchestrated its destruction. When the other gods attempted to stop him, Ares killed all but Zeus, who used the last of his power to wound Ares and force his retreat (thus dying in the process). Zeus left the Amazons the island and a weapon, the "Godkiller", to prepare them for Ares' return.
 
 Although she initially forbids Diana to be trained as a warrior, Hippolyta reluctantly agrees to let her sister, Antiope, train Diana, only more rigorously than any other warrior. In 1918, Diana, now a young woman, rescues American pilot Captain Steve Trevor when his plane crashes off the Themysciran coast. The island is soon invaded by a German ship pursuing Trevor. The Amazons kill the crew, but Antiope sacrifices herself to save Diana (by taking the bullet fired from a German marine that was meant to target Diana). Steve is interrogated with the Lasso of Hestia, and reveals that a war is consuming the outside world and that he is an Allied spy. He has stolen a notebook of the chief chemist Isabel Maru, who is attempting to engineer a deadlier form of mustard gas, under the orders of General Erich Ludendorff from a weapon facility in the Ottoman Empire. Believing Ares to be responsible for the war, Diana arms herself with the "Godkiller" sword, the lasso, and her armor before leaving Themyscira with Steve to locate and stop Ares for good.
 
