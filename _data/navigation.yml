@@ -1,6 +1,7 @@
 main:
   - title: "Just Go With It"
     url: /movies/
-Main:
   - title: "Ferris Bueller's..."
     url: /movies/
+  - title: "Wonder Woman"
+    url: /wonwom/
