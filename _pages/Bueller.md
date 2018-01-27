@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ______________________________________
-# *Ferris Bueller's day Off*
+# *Ferris Bueller's Day Off*
 ### June 11, 1986
 
 ![Bueller](/movie-project/Bueller.jpg)
