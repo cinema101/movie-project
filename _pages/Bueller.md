@@ -11,5 +11,5 @@ ______________________________________
 
 *Ferris Buller's Day Off* is one of the most inspirational films of all times, motivating teenagers to escape the pains of high school & spend... well, a day off. Filled with humour, philosophy, 80's vibes, and the charming Mattew Broderick, this movie will always be a hit.
 
-> *Ferris Bueller, you're my hero."
+> *"Ferris Bueller, you're my hero."*
 >       -Cameron
