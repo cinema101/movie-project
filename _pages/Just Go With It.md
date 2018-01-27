@@ -8,4 +8,5 @@ author_profile: true
 
 
 # All about your new favorite movie
-img: http://cdn.collider.com/wp-content/uploads/just_go_with_it_xlg.jpg
+
+ avatar: "http://cdn.collider.com/wp-content/uploads/just_go_with_it_xlg.jpg"
