@@ -3,5 +3,5 @@ layout: single
 permalink: /
 ---
 
-# Welcome to our movie website! 
+**Welcome to Our Movie Website**
 
